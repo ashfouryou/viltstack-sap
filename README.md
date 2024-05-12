@@ -19,7 +19,7 @@ composer create-project laravel/laravel
 
 Inertia [Here](https://inertiajs.com/) is essentially a client-side routing library. It allows you to make page visits without forcing a full page reload. This is done using the `<Link>` component, a light-weight wrapper around a normal anchor link. When you click an Inertia link, Inertia intercepts the click and makes the visit via XHR instead.
 
-### Install Vue.js
+## 3. Install Vue.js
 
 Vue.js [Here](https://vuejs.org/) is an open-source JavaScript framework used for building user interfaces and single-page applications.
 
@@ -47,7 +47,7 @@ Once the middleware has been published, append the HandleInertiaRequests middlew
 npm install @inertiajs/vue3
 ```
 
-### Install ViteJS-Vue plugin
+## 4. Install ViteJS-Vue plugin
 
 Vite  [Here](https://vitejs.dev/)  is a build tool and development server for modern web development projects, particularly those using JavaScript frameworks like Vue.js, React, or Svelte.
 
@@ -55,7 +55,7 @@ Vite  [Here](https://vitejs.dev/)  is a build tool and development server for mo
 npm install @vitejs/plugin-vue
 ```
 
-### Install Tailwind CSS
+## 5. Install Tailwind CSS
 
 Tailwind CSS [Here](https://tailwindui.com/documentation) is like a toolbox filled with small, ready-to-use tools (classes) that you can apply directly to your HTML elements to style them.
 
